@@ -3,6 +3,7 @@
 A simple web-based rock, paper, scissors game implemented with HTML, CSS, and JavaScript.
 
 **Table of Contents**
+
 Introduction
 Features
 Demo
@@ -11,7 +12,8 @@ Usage
 Customization
 Contributing
 License
-Introduction
+
+**Introduction**
 This project is a web implementation of the classic rock, paper, scissors game. Users can play against a computer opponent by choosing their move (rock, paper, or scissors). The game features animations, sound effects, and a responsive design.
 
 Features
