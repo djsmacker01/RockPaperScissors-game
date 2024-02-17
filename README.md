@@ -4,14 +4,14 @@ A simple web-based rock, paper, scissors game implemented with HTML, CSS, and Ja
 
 ## **Table of Contents**
 
-- [Introduction](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#introduction)
-- [Features](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#features)
-- [Demo](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#demo)
-- [Installation](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#installation)
-- [Usage](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#usage)
-- [Customization](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#customization)
-- [Contributing](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#contributing)
-- [License](https://chat.openai.com/c/ec78111a-8d03-4f36-9187-0505bf8037be#license)
+- Introduction
+- Features
+- Demo
+- Installation
+- Usage
+- Customization
+- Contributing
+- License
 
 ## **Introduction**
 
@@ -34,7 +34,7 @@ This project is a web implementation of the classic rock, paper, scissors game. 
     
     ```bash
     bashCopy code
-    git clone https://github.com/djsmacker01/rock-paper-scissors.git
+    git clone https://github.com/djsmacker01/RockPaperScissors.git
     
     ```
     
