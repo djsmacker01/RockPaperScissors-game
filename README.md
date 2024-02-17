@@ -2,7 +2,7 @@
 # Rock, Paper & Scissors Game
 A simple web-based rock, paper, scissors game implemented with HTML, CSS, and JavaScript.
 
-Table of Contents
+**Table of Contents**
 Introduction
 Features
 Demo
